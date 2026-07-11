@@ -1,3 +1,4 @@
+
 <!-- Profile README for github.com/carayac -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:C471ED,100:F64FBE&height=220&section=header&text=Carol%20Araya&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Costa%20Rica&descSize=18&descAlignY=58"/>
@@ -211,24 +212,25 @@ Secure electronic voting and crowdfunding platform focused on database security,
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 ChaTico
+### 🗄️ Advanced Database Engineering
 
-Logic-based intelligent chatbot developed with Prolog to answer questions about Costa Rican nature, culture, food and history.
+Database engineering project focused on security, concurrency, performance, transactions and data migration across SQL and NoSQL environments.
 
 **Highlights**
-- Knowledge representation
-- Logical inference
-- Basic natural language processing
-- Intent and entity recognition
-- Synonym support
-- Dynamic knowledge learning
-- Persistent learned facts
+- Designed relational and document-oriented data models
+- Implemented advanced T-SQL queries and stored procedures
+- Applied database permissions and security controls
+- Tested transactions, isolation levels and rollback behavior
+- Reproduced and analyzed deadlocks and cascading deadlocks
+- Implemented audit logging and backup log flows
+- Worked with SQL Server and MongoDB
+- Performed structured data migration processes
 
 **Stack:**  
-`Prolog` `Knowledge Representation` `Logical Inference` `NLP` `Dynamic Learning`
+`SQL Server` `T-SQL` `MongoDB` `Stored Procedures` `Transactions` `Concurrency` `Security` `Performance` `Data Migration`
 
 <p align="center">
-  <a href="https://github.com/carayac/ChatBot-Prolog-Proy03-LP">
+  <a href="https://github.com/prosoli/Caso-II">
     <img src="https://img.shields.io/badge/View%20Project-C471ED?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -236,24 +238,26 @@ Logic-based intelligent chatbot developed with Prolog to answer questions about 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Stock Management System — QA & Performance Evaluation
+### 🔬 Crossref Search
 
-Quality assurance and performance evaluation project focused on validating the reliability, usability and efficiency of a Django-based inventory system.
+Cloud-native scientific article search pipeline built with microservices to collect, process and index research metadata from PubMed and Crossref.
 
 **Highlights**
-- Designed and executed functional test cases
-- Evaluated CRUD operations and authentication flows
-- Performed load and performance testing with JMeter
-- Measured frontend quality using Lighthouse
-- Used Django Debug Toolbar to identify performance bottlenecks
-- Validated response times, error handling and system behavior
-- Documented defects, technical debt and improvement recommendations
+- Periodic PubMed article collection through a Kubernetes CronJob
+- Event-driven communication between services using RabbitMQ
+- Job tracking and status management with MariaDB
+- Crossref metadata retrieval using DOI identifiers
+- JSON processing and transformation with Apache Spark SQL
+- Date, author and reference normalization
+- Scientific article indexing in Elasticsearch
+- Search and data exploration through Kibana
+- Automated deployment with Docker, Kubernetes and Helm
 
 **Stack:**  
-`Python` `Django` `JMeter` `Lighthouse` `Django Debug Toolbar` `Test Client` `QA Testing`
+`Python` `PubMed API` `Crossref API` `RabbitMQ` `MariaDB` `Apache Spark` `Elasticsearch` `Kibana` `Docker` `Kubernetes` `Helm`
 
 <p align="center">
-  <a href="https://github.com/carayac/Proyecto-QA">
+  <a href="https://github.com/carayac/2025-02-IC4302/tree/proyecto-opcional">
     <img src="https://img.shields.io/badge/View%20Project-F64FBE?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
