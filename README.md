@@ -1,4 +1,3 @@
-
 <!-- Profile README for github.com/carayac -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:C471ED,100:F64FBE&height=220&section=header&text=Carol%20Araya&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Costa%20Rica&descSize=18&descAlignY=58"/>
@@ -24,30 +23,50 @@
 
 ## ✨ About Me
 
-```yaml
-name: Carol Daniela Araya Conejo
-location: Costa Rica 🇨🇷
-education: Computer Engineering
-university: Tecnológico de Costa Rica
+<div align="center">
 
-interests:
-  - Software Development
-  - Data Analytics & Data Engineering
-  - Artificial Intelligence
-  - Cloud Computing
-  - Cybersecurity
+### Hi! I'm Carol 👋
 
-currently_preparing:
-  - Microsoft Azure Fundamentals — AZ-900
-  - Cisco CCST Cybersecurity
-```
+Computer Engineering student at **Tecnológico de Costa Rica**, passionate about creating useful, secure and data-driven technology.
 
-- 🎓 Penultimate-year **Computer Engineering student**.
-- 💻 Experience developing web applications, APIs, databases and distributed systems.
-- 📊 Interested in transforming data into practical, understandable solutions.
-- ☁️ Exploring cloud-native architectures, microservices and automation.
-- 🔐 Focused on building secure, reliable and scalable technology.
-- 🌱 Constantly learning through technical projects, certifications and collaborative programs.
+I enjoy working with **software development, data engineering, artificial intelligence, cloud computing and cybersecurity**.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Profile
+
+- 📍 Based in **Costa Rica**
+- 💻 Experience with web applications, APIs and databases
+- 📊 Interested in data analysis and distributed systems
+- 🔐 Focused on secure and reliable solutions
+- 🤝 Enjoy teamwork and collaborative projects
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Current Focus
+
+- ☁️ Preparing for **Microsoft Azure Fundamentals — AZ-900**
+- 🛡️ Studying for **Cisco CCST Cybersecurity**
+- 🧠 Strengthening skills in **Data Engineering and AI**
+- ⚙️ Learning more about **cloud-native architectures**
+- 🌱 Continuously improving my English and technical skills
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> ✨ *Turning ideas into practical technology solutions.*
+
+</div>
 
 ---
 
