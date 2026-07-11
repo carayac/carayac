@@ -236,25 +236,24 @@ Logic-based intelligent chatbot developed with Prolog to answer questions about 
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ GourmetGo Backend
+### 🧪 Stock Management System — QA & Performance Evaluation
 
-Backend application for managing users, culinary experiences, reservations, ratings and availability.
+Quality assurance and performance evaluation project focused on validating the reliability, usability and efficiency of a Django-based inventory system.
 
 **Highlights**
-- Complete authentication system
-- User profile management
-- CRUD operations for experiences
-- Reservations with capacity control
-- QR-based booking validation
-- Ratings and reviews
-- PDF ticket generation
-- CSV reservation exports
+- Designed and executed functional test cases
+- Evaluated CRUD operations and authentication flows
+- Performed load and performance testing with JMeter
+- Measured frontend quality using Lighthouse
+- Used Django Debug Toolbar to identify performance bottlenecks
+- Validated response times, error handling and system behavior
+- Documented defects, technical debt and improvement recommendations
 
 **Stack:**  
-`Node.js` `Express` `MySQL` `JWT` `REST APIs` `Nodemailer` `PDF` `CSV` `QR Codes`
+`Python` `Django` `JMeter` `Lighthouse` `Django Debug Toolbar` `Test Client` `QA Testing`
 
 <p align="center">
-  <a href="https://github.com/carayac/gourmetgo-backend">
+  <a href="https://github.com/carayac/Proyecto-QA">
     <img src="https://img.shields.io/badge/View%20Project-F64FBE?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -275,12 +274,6 @@ Backend application for managing users, culinary experiences, reservations, rati
 - Design database schemas, backend services and authentication features.
 - Participate in the full software development lifecycle, from requirements to deployment.
 
-### 📊 Record to Report Operations Analyst  
-**Accenture**
-
-- Supported accounting operations across Central America, South Latin America and Canada.
-- Prepared journal entries, reconciliations, forecasts and month-end closing activities.
-- Worked with SAP, Excel and ServiceNow to maintain accurate financial records.
 
 ### 💻 Software Development Intern  
 **ARCAVI Software**
@@ -322,9 +315,9 @@ Backend application for managing users, culinary experiences, reservations, rati
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=carayac&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=C471ED&text_color=FFFFFF&icon_color=F64FBE&ring_color=7F00FF" alt="GitHub statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carayac&theme=tokyonight" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carayac&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=C471ED&text_color=FFFFFF" alt="Most used languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carayac&theme=tokyonight" alt="Languages by repository"/>
 
 </div>
 
