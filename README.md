@@ -215,6 +215,7 @@ Secure electronic voting and crowdfunding platform focused on database security,
 - Symmetric encryption
 - Permission controls, transactions and rollback handling
 - Checksums and audit logs
+- Power BI Dashboard
 
 **Stack:**  
 `Python` `Azure Functions` `SQL Server` `SQLAlchemy` `T-SQL` `Stored Procedures` `MFA` `Encryption`
